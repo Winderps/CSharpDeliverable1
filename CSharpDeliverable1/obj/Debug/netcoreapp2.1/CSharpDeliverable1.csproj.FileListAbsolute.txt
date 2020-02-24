@@ -1,0 +1,11 @@
+C:\Users\Winderps\source\repos\CSharpDeliverable1\CSharpDeliverable1\bin\Debug\netcoreapp2.1\CSharpDeliverable1.deps.json
+C:\Users\Winderps\source\repos\CSharpDeliverable1\CSharpDeliverable1\bin\Debug\netcoreapp2.1\CSharpDeliverable1.runtimeconfig.json
+C:\Users\Winderps\source\repos\CSharpDeliverable1\CSharpDeliverable1\bin\Debug\netcoreapp2.1\CSharpDeliverable1.runtimeconfig.dev.json
+C:\Users\Winderps\source\repos\CSharpDeliverable1\CSharpDeliverable1\bin\Debug\netcoreapp2.1\CSharpDeliverable1.dll
+C:\Users\Winderps\source\repos\CSharpDeliverable1\CSharpDeliverable1\bin\Debug\netcoreapp2.1\CSharpDeliverable1.pdb
+C:\Users\Winderps\source\repos\CSharpDeliverable1\CSharpDeliverable1\obj\Debug\netcoreapp2.1\CSharpDeliverable1.csprojAssemblyReference.cache
+C:\Users\Winderps\source\repos\CSharpDeliverable1\CSharpDeliverable1\obj\Debug\netcoreapp2.1\CSharpDeliverable1.csproj.CoreCompileInputs.cache
+C:\Users\Winderps\source\repos\CSharpDeliverable1\CSharpDeliverable1\obj\Debug\netcoreapp2.1\CSharpDeliverable1.AssemblyInfoInputs.cache
+C:\Users\Winderps\source\repos\CSharpDeliverable1\CSharpDeliverable1\obj\Debug\netcoreapp2.1\CSharpDeliverable1.AssemblyInfo.cs
+C:\Users\Winderps\source\repos\CSharpDeliverable1\CSharpDeliverable1\obj\Debug\netcoreapp2.1\CSharpDeliverable1.dll
+C:\Users\Winderps\source\repos\CSharpDeliverable1\CSharpDeliverable1\obj\Debug\netcoreapp2.1\CSharpDeliverable1.pdb
